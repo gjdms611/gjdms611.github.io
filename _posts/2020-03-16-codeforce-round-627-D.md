@@ -3,6 +3,8 @@ title: '[Codeforces] Codeforces Round #627 - D. Pair of Topics'
 date: 2020-03-16 01:37:09 +0900
 categories: [Algorithm, Codeforces]
 tags: [C++, upper_bound]
+seo:
+  date_modified: 2020-03-27 13:21:41 +0900
 ---
 
 [문제 링크](https://codeforces.com/problemset/problem/1324/D)
