@@ -1,6 +1,6 @@
 ---
 title: '[BOJ] 18809 - Gaaaaaaaaaarden'
-date: 2020-05-31 22:21:38 +0900
+date: 2020-06-04 22:21:38 +0900
 categories: [Algorithm, BOJ]
 tags: [C++, 구현, 완전탐색]
 ---
