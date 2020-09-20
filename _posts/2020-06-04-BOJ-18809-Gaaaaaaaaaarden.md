@@ -3,6 +3,8 @@ title: '[BOJ] 18809 - Gaaaaaaaaaarden'
 date: 2020-06-04 22:21:38 +0900
 categories: [Algorithm, BOJ]
 tags: [C++, 구현, 완전탐색]
+seo:
+  date_modified: 2020-06-06 22:00:11 +0900
 ---
 
 [[백준] 18809 - Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)<br>
