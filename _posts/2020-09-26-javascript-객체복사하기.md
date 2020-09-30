@@ -60,4 +60,7 @@ console.log(obj1.b.c); // 2
 알반적으로 하위객체까지 복사해야 할 일이 많지 않기 때문에 가장 많이 사용하는 방법이라고 한다.
 (깊은 복사는 자고 일어난 미래의 나에게 맡긴다.. 점 표기법이랑..hasOwnProperty랑..)
 
-> [참고] > https://velog.io/@ddalpange/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9D%EC%B2%B4-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0 > https://m.blog.naver.com/wideeyed/221789258087 > https://junwoo45.github.io/2019-09-23-deep_clone/
+> 참고
+> https://velog.io/@ddalpange/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9D%EC%B2%B4-%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0  
+> https://m.blog.naver.com/wideeyed/221789258087  
+> https://junwoo45.github.io/2019-09-23-deep_clone/
