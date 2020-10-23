@@ -3,6 +3,7 @@ title: '[BOJ] 17976 - Thread Knots'
 date: 2020-10-19 19:18:52 +0900
 categories: [Algorithm, BOJ]
 tags: [그리디]
+use_math: true
 ---
 
 [[백준] 17976 - Thread Knots](https://www.acmicpc.net/problem/17976)<br>
