@@ -4,6 +4,8 @@ date: 2020-10-19 19:18:52 +0900
 categories: [Algorithm, BOJ]
 tags: [그리디]
 use_math: true
+seo:
+  date_modified: 2020-10-23 14:25:36 +0900
 ---
 
 [[백준] 17976 - Thread Knots](https://www.acmicpc.net/problem/17976)<br>
