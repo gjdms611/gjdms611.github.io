@@ -1,6 +1,6 @@
 ---
 title: "[vue.js error] Avoid using non-primitive value as key, use string/number value instead."
-date: 2020-11-02 12:22:42 +0900
+date: 2020-11-20 20:23:22 +0900
 categories: [Vue.js, Web]
 tags: [Vue.js, Web, javascript]
 ---
