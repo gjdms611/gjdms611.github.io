@@ -1,7 +1,7 @@
 ---
 title: "[vue.js error] Unknown custom element: did you register the component correctly? For recursive components, make sure to provide the 'name' option."
 date: 2020-11-21 22:21:52 +0900
-categories: [Vue.js, Web]
+categories: [Web, Vue.js]
 tags: [Vue.js, Web, javascript]
 ---
 
