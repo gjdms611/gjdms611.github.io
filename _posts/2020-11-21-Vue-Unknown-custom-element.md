@@ -1,8 +1,11 @@
 ---
-title: "[vue.js error] Unknown custom element: did you register the component correctly? For recursive components, make sure to provide the 'name' option."
+title: "[vue.js error] Unknown custom element: did you register the component correctly?\
+  \ For recursive components, make sure to provide the 'name' option."
 date: 2020-11-21 22:21:52 +0900
 categories: [Web, Vue.js]
 tags: [Vue.js, Web, javascript]
+seo:
+  date_modified: 2021-01-29 14:13:28 +0900
 ---
 
 'Unknown element'라는 말에서 알 수 있듯이, 오타가 났을 때 뜨는 것이다.  

@@ -1,8 +1,12 @@
 ---
-title: "[vue.js error] Property or method is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property."
+title: '[vue.js error] Property or method is not defined on the instance but referenced
+  during render. Make sure that this property is reactive, either in the data option,
+  or for class-based components, by initializing the property.'
 date: 2020-11-02 12:22:42 +0900
 categories: [Web, Vue.js]
 tags: [Vue.js, Web, javascript]
+seo:
+  date_modified: 2021-01-29 14:13:28 +0900
 ---
 
 크게 두 가지 실수를 했을 때 발생하는 에러이다.

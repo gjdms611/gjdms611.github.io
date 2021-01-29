@@ -1,10 +1,10 @@
 ---
-title: "[javascript] 객체 복사하기"
+title: '[javascript] 객체 복사하기'
 date: 2020-09-26 01:14:07 +0900
 categories: [Programming language, javascript]
 tags: [javascript, Web]
 seo:
-  date_modified: 2020-09-30 14:05:50 +0900
+  date_modified: 2020-10-29 17:18:17 +0900
 ---
 
 ## 얕은 복사(Shallow Copy)
