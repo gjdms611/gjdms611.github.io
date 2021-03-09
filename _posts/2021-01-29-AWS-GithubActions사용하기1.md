@@ -1,8 +1,10 @@
 ---
-title: "[AWS] Github Actions와 code deploy를 이용해 Vue.js-Spring boot 프로젝트 배포하기(1)"
+title: '[AWS] Github Actions와 code deploy를 이용해 Vue.js-Spring boot 프로젝트 배포하기(1)'
 date: 2021-01-29 10:46:22 +0900
 categories: [Web, AWS]
 tags: [Web, AWS]
+seo:
+  date_modified: 2021-03-08 22:17:15 +0900
 ---
 
 ## 서론

@@ -6,7 +6,7 @@ date: 2020-11-02 12:22:42 +0900
 categories: [Web, Vue.js]
 tags: [Vue.js, Web, javascript]
 seo:
-  date_modified: 2021-01-29 14:13:28 +0900
+  date_modified: 2021-03-09 13:50:09 +0900
 ---
 
 크게 두 가지 실수를 했을 때 발생하는 에러이다.
