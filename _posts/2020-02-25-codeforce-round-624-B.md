@@ -7,7 +7,7 @@ seo:
   date_modified: 2020-03-05 05:02:41 +0900
 ---
 
-[문제 링크](http://codeforces.com/contest/1311/problem/B)
+[문제 링크](https://codeforces.com/contest/1311/problem/B)
 
 버블소트를 구현하면 되는 문제다.<br>
 문제를 해석하자면 두 개의 배열이 주어지며, 하나의 배열은 정렬이 필요한 배열, 나머지 하나는 swap이 가능한 인덱스가 주어진 배열이다.<br>

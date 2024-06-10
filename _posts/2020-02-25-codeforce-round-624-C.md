@@ -7,7 +7,7 @@ seo:
   date_modified: 2020-03-05 05:02:41 +0900
 ---
 
-[문제 링크](http://codeforces.com/contest/1311/problem/C)
+[문제 링크](https://codeforces.com/contest/1311/problem/C)
 
 주어진 인덱스까지 각 알파벳이 몇 번 나왔는지를 계속 더해서 최종 결과값을 출력하는 문제다.<br>
 구간합을 구한다는 발상까지는 좋았지만 초기화에서 자꾸 시간초과가 나서 많은 고통을 받았다.<br>
