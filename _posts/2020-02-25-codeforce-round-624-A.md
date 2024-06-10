@@ -7,7 +7,7 @@ seo:
   date_modified: 2020-03-05 05:02:41 +0900
 ---
 
-[문제 링크](http://codeforces.com/contest/1311/problem/A)
+[문제 링크](https://codeforces.com/contest/1311/problem/A)
 
 이번 대회의 등록문제.<br>
 문제를 해석하자면, 두 개의 수가 주어졌을 때 a를 b와 같게 만들기 위해 몇 번의 계산을 거쳐야 하는지 출력하는 문제다.<br>
