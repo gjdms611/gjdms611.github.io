@@ -1,5 +1,5 @@
 ---
-title: "[독서] Clean Code - Ch.1"
+title: "[독서] Head First Design Patterns - Ch.1"
 date: 2024-06-05 18:03:21 +0900
 categories: [취미, 독서]
 tags: [독서, Head First Design Pattern]
